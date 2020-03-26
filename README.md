@@ -1,7 +1,5 @@
 # House-Price-Estimation-using-Both-Visual-Images-and-Textual-Data
 
-
-
 Data Pre-processing like removing Outliers and mean values for all missing values.
   Encode categorical features.
   Normalize numeric features.
