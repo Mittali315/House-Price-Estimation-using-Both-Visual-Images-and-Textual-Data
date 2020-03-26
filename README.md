@@ -1,8 +1,3 @@
 # House-Price-Estimation-using-Both-Visual-Images-and-Textual-Data
 
-Data Pre-processing like removing Outliers and mean values for all missing values.
-  Encode categorical features.
-  Normalize numeric features.
-  Concatenate houses images into one image for each house.
-  Split data into train and test data.
-  Using a dense neural network for textual data and CNN model for image data predict “PRICE” of a house.
+The goal of this project is to build a novel house price estimation system by using both textual and visual inputs, other than only using textual information such as area, neighborhood, and number of bedrooms.
